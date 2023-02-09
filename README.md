@@ -8,7 +8,7 @@ A self-starting back-end software developer in Java and Springboot as a framewor
 
 * 🌍  I based in Lagos,Nigeria
 * ✉️  You can contact me at [olujareayodeji7@gmail.com](mailto:olujareayodeji7@gmail.com)
-* 🧠  I'm still scaling with java and Spring boot as framework
+* 🧠  I'm still scaling with java which is my primary programming language,Spring and Springboot as a framework and Golang.
 * 🤝  I'm open to collaborations on interesting projects
 * ⚡ Secrete Hobbies: I love photography and swimming. Don't tell anyone else.
 
