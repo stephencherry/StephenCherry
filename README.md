@@ -1,6 +1,6 @@
 Welcome! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
-My name is Stephen A. Olujare
+STEPHEN A. OLUJARE (StephenCherry)
 ==========================================================================================================================================
 
 A self-starting back-end software developer in Java and Springboot as a framework for building and maintaining responsive applications and websites in a collaborative environment,passionate about usability and modern libraries and frameworks.
@@ -9,7 +9,7 @@ A self-starting back-end software developer in Java and Springboot as a framewor
 * ✉️  You can contact me at [olujareayodeji7@gmail.com](mailto:olujareayodeji7@gmail.com)
 * 🧠  I'm still scaling with java which is my primary programming language,Spring and Springboot as a framework and Golang.
 * 🤝  I'm open to collaborations on interesting projects
-* ⚡ Secrete Hobbies: I love photography and swimming. Don't tell anyone else.
+* ⚡ Secret Hobbis: I love photography and swimming. Don't tell anyone else LOL.
 
 <a href="https://www.github.com/StephenCherry" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/StephenCherry?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
