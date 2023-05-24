@@ -1,6 +1,6 @@
 Welcome! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
-#StephenCherry
+StephenCherry
 ==========================================================================================================================================
 
 A self-starting back-end software developer in Java and Springboot as a framework for building and maintaining responsive applications and websites in a collaborative environment,passionate about usability and modern libraries and frameworks.
