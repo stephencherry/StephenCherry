@@ -3,12 +3,12 @@ Welcome! ![](https://user-images.githubusercontent.com/18350557/176309783-078594
 StephenCherry
 ==========================================================================================================================================
 
-A self-starting back-end software developer in Java and Springboot as a framework for building and maintaining responsive applications and websites in a collaborative environment,passionate about usability and modern libraries and frameworks.
+A self-starting back-end software developer in Java and Springboot as a framework for building and maintaining responsive applications and websites in a collaborative environment, passionate about usability and modern libraries and frameworks.
 
-* 🌍  I based in Lagos,Nigeria
+* 🌍  I am based in Lagos, Nigeria
 * ✉️  You can contact me at [olujareayodeji7@gmail.com](mailto:olujareayodeji7@gmail.com)
-* 🧠  I'm still scaling with java which is my primary programming language,Spring and Springboot as a framework and Golang.
-* 🤝  I'm open to collaborations on interesting projects
+* 🧠  I'm still scaling with Java, my primary programming language, Spring and Springboot as a framework, and Golang.
+* 🤝  I'm open to collaborations on exciting projects
 * ⚡ Secret Hobbis: I love photography and swimming. Don't tell anyone else LOL.
 
 <a href="https://www.github.com/StephenCherry" target="_blank" rel="noreferrer"><img
@@ -19,6 +19,7 @@ src="https://img.shields.io/github/followers/StephenCherry?logo=github&style=for
 
 <p align="left">
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
+  <a href="https://go.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="36" alt="GO" /></a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
