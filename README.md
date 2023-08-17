@@ -6,7 +6,7 @@
 - **Location:** Lagos, Nigeria
 - **Email:** olujareayodeji7@gmail.com
 
-  I'm a self-starting back-end software developer specializing in building and maintaining responsive applications and websites using Java, Golang, and Spring Boot as frameworks. I'm currently on a journey of web development. My passion lies in creating user-friendly experiences and leveraging modern libraries and frameworks.
+  As a back-end software developer, I specialized in building and maintaining responsive applications and websites using Java, Golang, and Spring Boot as frameworks. I'm currently on a journey of web development. My passion lies in creating user-friendly experiences and leveraging modern libraries and frameworks.
   ### Expertise
 
 - **Programming Languages:** Java, Golang
