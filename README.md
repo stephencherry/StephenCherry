@@ -1,15 +1,29 @@
-Welcome! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+## Welcome! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
-StephenCherry
-==========================================================================================================================================
+### About Me
 
-A self-starting back-end software developer in Java and Springboot as a framework for building and maintaining responsive applications and websites in a collaborative environment, passionate about usability and modern libraries and frameworks.
+- **Name:** Stephen A Olujare
+- **Location:** Lagos, Nigeria
+- **Email:** olujareayodeji7@gmail.com
 
-* 🌍  I am based in Lagos, Nigeria
-* ✉️  You can contact me at [olujareayodeji7@gmail.com](mailto:olujareayodeji7@gmail.com)
-* 🧠  I'm still scaling with Java, my primary programming language, Spring and Springboot as a framework, and Golang.
-* 🤝  I'm open to collaborations on exciting projects
-* ⚡ Secret Hobbis: I love photography and swimming. Don't tell anyone else LOL.
+  I'm a self-starting back-end software developer specializing in building and maintaining responsive applications and websites using Java, Golang, and Spring Boot as frameworks. I'm currently on a journey of web development. My passion lies in creating user-friendly experiences and leveraging modern libraries and frameworks.
+  ### Expertise
+
+- **Programming Languages:** Java, Golang
+- **Frameworks:** Spring Boot, Echo, Gin
+- **Learning:** Web Development using HTML, CSS, and Javascript with other frameworks that have to deal with web development.
+
+  * I believe in continuous learning and constantly strive to enhance my skills in the technologies I work with.
+ 
+  ### Collaboration and Projects
+  
+I'm enthusiastic about collaborating on exciting software projects. Whether it's open-source initiatives or industry-specific applications, I'm always open to meaningful collaborations that contribute positively to the tech community.
+
+### Interests Beyond Coding
+
+⚡ **Secret Hobbies:** When I'm not coding, you might find me pursuing my love for photography or enjoying a refreshing swim and listening to evergreen songs. It's my way of unwinding and finding inspiration outside the digital realm.
+
+Feel free to connect with me and explore potential collaboration opportunities. Let's create something amazing together!
 
 <a href="https://www.github.com/StephenCherry" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/StephenCherry?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
