@@ -1,10 +1,10 @@
-## Welcome! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+## Huānyíng lái dào wǒ de yèmiàn ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
 ### About Me
 
 - **Name:** Stephen A Olujare
 - **Location:** Lagos, Nigeria
-- **Email:** olujareayodeji7@gmail.com
+- **Email:** stephenolujare7@gmail.com
 
   As a back-end software developer, I specialized in building and maintaining responsive applications and websites using Java, Golang, and Spring Boot as frameworks. I'm currently on a journey of web development. My passion lies in creating user-friendly experiences and leveraging modern libraries and frameworks.
   ### Expertise
