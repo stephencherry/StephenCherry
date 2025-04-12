@@ -2,22 +2,29 @@
 
 ### About Me
 
-- **Name:** Stephen A Olujare
+- **Name:** Ayodeji Stephen Olujare
 - **Location:** Lagos, Nigeria
-- **Email:** stephenolujare7@gmail.com
+- **Email:** theolujare@gmail.com
 
-  As a back-end software developer, I specialized in building and maintaining responsive applications and websites using Java, Golang, and Spring Boot as frameworks. I'm currently on a journey of web development. My passion lies in creating user-friendly experiences and leveraging modern libraries and frameworks.
+I'm Ayodeji Olujare, a software alchemist with a passion for crafting solutions that resonate with users. My journey in technology began with a mentor who showed me the art of coding, igniting a fire that has driven my career from the first line of code I wrote in Java. My aim is to blend creativity with technology, making digital experiences not just functional but enjoyable.
   ### Expertise
 
-- **Programming Languages:** Java, Golang
-- **Frameworks:** Spring Boot, Echo, Gin
-- **Learning:** Web Development using HTML, CSS, and Javascript with other frameworks that have to deal with web development.
+- **Tech Stacks And Frameworks:** Java, Golang, Spring Boot, React, HTML, CSS, JavaScript, Echo, Gin
 
-  * I believe in continuous learning and constantly strive to enhance my skills in the technologies I work with.
+### My Development Philosophy:
+  * I believe in:
+
+* User-Centric Design: Every piece of software should enhance the user's life. Understanding user needs is paramount; I strive to create interfaces that are intuitive and enjoyable.
+* Continuous Learning & Community Engagement: Staying ahead in technology requires an insatiable curiosity. I actively seek new knowledge through courses and workshops while giving back to the tech community through knowledge sharing and mentorship.
+* Collaboration: The best solutions come from diverse minds working together. I value teamwork and believe that sharing perspectives leads to innovative solutions.
+* Performance Optimization: I focus on ensuring applications not only function but excel in speed and efficiency, providing a seamless user experience.
  
-  ### Collaboration and Projects
-  
-I'm enthusiastic about collaborating on exciting software projects. Whether it's open-source initiatives or industry-specific applications, I'm always open to meaningful collaborations that contribute positively to the tech community.
+  ### Collaboration and Growth:
+* I'm always on the lookout for:
+* Challenging Projects: I seek out opportunities that push my boundaries and encourage personal and professional growth.
+* Collaborative Teams: I’m eager to work with teams that share a vision for innovation and are committed to creating impactful solutions.
+* Community Engagement: I look for ways to contribute to and learn from the tech community, fostering mutual growth and shared knowledge.
+  If you're passionate about creating technology that matters, let's connect and explore how we can build something extraordinary together.
 
 ### Interests Beyond Coding
 
@@ -25,7 +32,7 @@ I'm enthusiastic about collaborating on exciting software projects. Whether it's
 
 Feel free to connect with me and explore potential collaboration opportunities. Let's create something amazing together!
 
-<a href="https://www.github.com/StephenCherry" target="_blank" rel="noreferrer"><img
+<a href="https://www.github.com/stephencherry" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/StephenCherry?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ### Skills
@@ -53,7 +60,7 @@ src="https://img.shields.io/github/followers/StephenCherry?logo=github&style=for
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/StephenCherry"><img src="https://github-readme-stats.vercel.app/api?username=StephenCherry&show_icons=true&hide=&count_private=true&title_color=facc15&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="StephenCherry's GitHub stats" /></a>
+<a href="http://www.github.com/stephencherry"><img src="https://github-readme-stats.vercel.app/api?username=StephenCherry&show_icons=true&hide=&count_private=true&title_color=facc15&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="StephenCherry's GitHub stats" /></a>
 
 <a href="http://www.github.com/StephenCherry"><img src="https://github-readme-streak-stats.herokuapp.com/?user=StephenCherry&stroke=ffffff&background=1c1917&ring=facc15&fire=facc15&currStreakNum=ffffff&currStreakLabel=facc15&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
